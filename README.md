@@ -16,7 +16,7 @@ Takım Unity 162
 
 ## Product Backlog URL
 
-(https://miro.com/app/board/uXjVM9uLYKA=/?share_link_id=303138377951)
+([https://miro.com/app/board/uXjVM9uLYKA=/?share_link_id=303138377951](https://trello.com/w/u1621)
 
 ## Ürün Açıklaması
 
@@ -56,7 +56,7 @@ Takım Unity 162
 - **Sprint board update**:
 
 - Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/Bootcamp2022Example/main/ProjectManagement/Sprint1Documents/backlog1.png) 
+![Backlog 1](https://github.com/melisakklk/U-162/blob/main/123.png) 
 
 
 - **Ürün Durumu**:
