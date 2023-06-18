@@ -39,95 +39,37 @@ Takım Unity 162
 
 # Sprint 1
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**:
+
+ - 30 puan
 
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**:
+  
+- Puan tamamlama mantığı, toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 30 puan ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Toplantı saati her gün takımda konuşularak kararlaştırılmaktadır. Takımdaki kişilerin bazıları çalıştığından uygun saat her gün aynı olamamaktadır.  Daily Scrum toplantısı örneği pdf olarak aşağıdaki linkte paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/melisakklk/U-162/blob/main/daily%20scrum%20meeting.pdf)
+- **Daily Scrum**:
 
-- **Sprint board update**: Sprint board screenshotları: 
+- Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Toplantı saati her gün takımda konuşularak kararlaştırılmaktadır. Takımdaki kişilerin bazıları çalıştığından uygun saat her gün aynı olamamaktadır.  Daily Scrum toplantısı örneği pdf olarak aşağıdaki linkte paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/melisakklk/U-162/blob/main/daily%20scrum%20meeting.pdf)
+
+- **Sprint board update**:
+
+- Sprint board screenshotları: 
 ![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/Bootcamp2022Example/main/ProjectManagement/Sprint1Documents/backlog1.png) 
 
 
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product1.png)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product2.png)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product4.gif)
-- **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış, arduino kurulumu ve firebase'e bağlanması sağlanmış, uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Mustafa Aksoy
+- **Ürün Durumu**:
+ - Henüz kodlama ya da tamamlanmış bir UI tasarımı yoktur. 1. sprint için burası boş bırakılacaktır.
+  
+- **Sprint Review**:
+  
+ - 1. sprintin ilk haftası takımlar değişmiştir ve grup ancak 1. haftanın sonunda koordine olmuştur. 2. haftada daily scrumla yapılmış bunun sonucunda takım rolleri, oyun fikri, oyun temel özellikleri (2d, ticarileştirme mekanikleri...) kararlaştırılmıştır, backlog hazırlanmış ve tasarım ögeleri araştırılmıştır.  1. ve 2. hafta boyunca ekip üyelerinden birkaçının sınavları olduğundan planlamada zorluklar yaşanmıştır. Yeni planlama kişilerin günlük ve haftalık günlük yoğunlukları belirlenerek oluşturulmuştur. 
 
 - **Sprint Retrospective:**
-  - Roller ile ilgili düzenleme yapılmış, scrum master değişmiştir.
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
-  - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
- 
-
-
----
-
-## Product Backlog URL
-
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
-
----
-
-# Sprint 2
-
-- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
-
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/DailyScrumMeetingNotesSprint2.docx?raw=true)
-
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/2022-05-22%2019_25_30-Window.png) 
-
-
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/1.jpeg)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/2.jpeg)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/3.jpeg)
-- **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve eksiklikleri değerlendirilmiştir. 
-Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydoğan 
-
-- **Sprint Retrospective:**
-
-  - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
-
-
----
-
-## Product Backlog URL
-
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
-
----
-
-# Sprint 3
-
-- **Sprint içinde tamamlanması tahmin edilen puan**: İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 240'tır.
-
-
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/DailyScrumMeetingNotesSprint3.docx?raw=true)
-
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/2022-06-06%2000_19_38-Clipboard.png) 
-
-
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/1.png)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/2.png)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/3.png)
-
-
-- **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir. 
-Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydoğan 
-
-- **Sprint Retrospective:**
-
-  - Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
-
-
----
+  - Gannt Şeması bayram ve sınav yoğunlukları nedeniyle tekrar düzenlenmiştir.
+  - 1. sprint için artılar, eksiler, iyileştirmeler belirlenmiştir.Artılara örnek olarak ;
+    Ekip içerisinde iletişim etkili ve açıktır. Kişiler verilen sorumlulukları zamanında yerine getirmektedir ve geribildirim hızlıdır. Ekip üyeleri takım ruhuna adapte olmuştur.
+    Eksiler ev iyileştirmelere örnek olarak;
+    Kişiler bundan sonra daha da artacak iş yüklerine göre günlük planlamalarını yapmışlardır.
+  - Oyun tasarımı zaman ve geliştiricilerin yetkinlikleri sebebiyle 3d'den 2d'ye alınmıştır.
