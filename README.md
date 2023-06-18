@@ -1,4 +1,3 @@
-![image](https://github.com/melisakklk/U-162/assets/98775319/96296edd-3611-46e2-ad51-3fa922fd7cfa)# U-162
 # **Takım İsmi**
 
 Takım Unity 162
@@ -46,7 +45,7 @@ Takım Unity 162
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Toplantı saati her gün takımda konuşularak kararlaştırılmaktadır. Takımdaki kişilerin bazıları çalıştığından uygun saat her gün aynı olamamaktadır.  Daily Scrum toplantısı örneği pdf olarak aşağıdaki linkte paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](file:///C:/Users/melis/Desktop/daily%20scrum%20meeting.pdf)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/Bootcamp2022Example/main/ProjectManagement/Sprint1Documents/backlog1.png) 
