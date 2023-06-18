@@ -12,7 +12,7 @@ Takım Unity 162
 - İdris Dindar: Developer
 ## Ürün İsmi
 
--- --
+Portal Adventures
 
 ## Product Backlog URL
 
@@ -20,7 +20,7 @@ Takım Unity 162
 
 ## Ürün Açıklaması
 
- Ana karakterimiz _karakteradı_ bir gün şans eseri ninesinin yemek tarifi kitabını bulur. Ninesinin yaptığı yemekleri çok seven _karakteradı_ bu yemekleri yapmaya karar verir. Ancak tarifler için gereken malzemeleri elde edebilmek için farklı portallarda yolculuk yaparak peşisıra maceralar yaşaması gerekmektedir zira bu malzemeleri temin etmesi umduğu kadar kolay olmayacaktır. Her seferinde farklı bir portalda farklı bir hikayeyle beklenmedik olaylar yaşayan karakterimiz zorlu bulmacalar ve gizemleri çözerek, görevleri tamamlayarak oyuncuya sıradışı bir oyun deneyimi sunar. 
+ Ana karakterimiz  bir gün şans eseri ninesinin yemek tarifi kitabını bulur. Ninesinin yaptığı yemekleri çok seven karakterimiz bu yemekleri yapmaya karar verir. Ancak tarifler için gereken malzemeleri elde edebilmek için farklı portallarda yolculuk yaparak peşisıra maceralar yaşaması gerekmektedir zira bu malzemeleri temin etmesi umduğu kadar kolay olmayacaktır. Her seferinde farklı bir portalda farklı bir hikayeyle beklenmedik olaylar yaşayan karakterimiz zorlu bulmacalar ve gizemleri çözerek, görevleri tamamlayarak oyuncuya sıradışı bir oyun deneyimi sunar. 
 
 ## Ürün Özellikleri
 
@@ -64,7 +64,7 @@ Takım Unity 162
   
 - **Sprint Review**:
   
- - 1. sprintin ilk haftası takımlar değişmiştir ve grup ancak 1. haftanın sonunda koordine olmuştur. 2. haftada daily scrumla yapılmış bunun sonucunda takım rolleri, oyun fikri, oyun temel özellikleri (2d, ticarileştirme mekanikleri...) kararlaştırılmıştır, backlog hazırlanmış ve tasarım ögeleri araştırılmıştır.  1. ve 2. hafta boyunca ekip üyelerinden birkaçının sınavları olduğundan planlamada zorluklar yaşanmıştır. Yeni planlama kişilerin günlük ve haftalık günlük yoğunlukları belirlenerek oluşturulmuştur. 
+ -    1. sprintin ilk haftası takımlar değişmiştir ve grup ancak 1. haftanın sonunda koordine olmuştur. 2. haftada daily scrumla yapılmış bunun sonucunda takım rolleri, oyun fikri, oyun temel özellikleri (2d, ticarileştirme mekanikleri...) kararlaştırılmıştır, backlog hazırlanmış ve tasarım ögeleri araştırılmıştır.  1. ve 2. hafta boyunca ekip üyelerinden birkaçının sınavları olduğundan planlamada zorluklar yaşanmıştır. Yeni planlama kişilerin günlük ve haftalık günlük yoğunlukları belirlenerek oluşturulmuştur. 
 
 - **Sprint Retrospective:**
   - Gannt Şeması bayram ve sınav yoğunlukları nedeniyle tekrar düzenlenmiştir.
