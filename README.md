@@ -16,7 +16,7 @@ Takım Unity 162
 
 ## Product Backlog URL
 
-([https://miro.com/app/board/uXjVM9uLYKA=/?share_link_id=303138377951](https://trello.com/w/u1621)
+(https://trello.com/w/u1621)
 
 ## Ürün Açıklaması
 
