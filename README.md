@@ -61,11 +61,10 @@ Portal Adventures
 
 - **Ürün Durumu**:
  - Bulunan assetlerle denemeler yapılmıştır.
-![Ürün Durumu][(WhatsApp Image 2023-06-19 at 19.29.39 (1).jpeg)](https://github.com/melisakklk/U-162/blob/main/WhatsApp%20Image%202023-06-19%20at%2019.29.39.jpeg)
-![Backlog 1](WhatsApp Image 2023-06-19 at 19.29.39 (2).jpeg)
-![Backlog 1](WhatsApp Image 2023-06-19 at 19.29.39 (3).jpeg)
-![Backlog 1](WhatsApp Image 2023-06-19 at 19.29.39.jpeg)
-  
+(Ürün denemeleri)](https://github.com/melisakklk/U-162/blob/main/WhatsApp%20Image%202023-06-19%20at%2019.29.39.jpeg)
+(https://github.com/melisakklk/U-162/blob/main/WhatsApp%20Image%202023-06-19%20at%2019.29.39%20(3).jpeg)
+(https://github.com/melisakklk/U-162/blob/main/WhatsApp%20Image%202023-06-19%20at%2019.29.39%20(2).jpeg)
+(https://github.com/melisakklk/U-162/blob/main/WhatsApp%20Image%202023-06-19%20at%2019.29.39%20(1).jpeg)
   
 - **Sprint Review**:
   
