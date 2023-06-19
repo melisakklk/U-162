@@ -61,10 +61,10 @@ Portal Adventures
 
 - **Ürün Durumu**:
  - Bulunan assetlerle denemeler yapılmıştır.
- - ![Backlog 1](WhatsApp Image 2023-06-19 at 19.29.39 (1).jpeg)
- - ![Backlog 1](WhatsApp Image 2023-06-19 at 19.29.39 (2).jpeg)
- - ![Backlog 1](WhatsApp Image 2023-06-19 at 19.29.39 (3).jpeg)
- - ![Backlog 1](WhatsApp Image 2023-06-19 at 19.29.39.jpeg)
+![Backlog 1](WhatsApp Image 2023-06-19 at 19.29.39 (1).jpeg)
+![Backlog 1](WhatsApp Image 2023-06-19 at 19.29.39 (2).jpeg)
+![Backlog 1](WhatsApp Image 2023-06-19 at 19.29.39 (3).jpeg)
+![Backlog 1](WhatsApp Image 2023-06-19 at 19.29.39.jpeg)
   
   
 - **Sprint Review**:
