@@ -90,7 +90,7 @@ Portal Adventures
 -Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
 - Sprint board screenshotları: 
-![Backlog 1](https://github.com/melisakklk/U-162/blob/main/123.png) 
+![Sprintboard](https://github.com/melisakklk/U-162/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-02%20161230.png) 
 
 - **Ürün Durumu**:
  - Karar verilen assetlerle bölüm oluşturmaları başlamıştır. 
