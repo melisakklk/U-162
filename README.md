@@ -84,7 +84,7 @@ Portal Adventures
  - 40 puan
 
 - **Daily Scrum**:
-- Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Toplantı saati her gün takımda konuşularak kararlaştırılmaktadır. Takımdaki kişilerin bazıları çalıştığından uygun saat her gün aynı olamamaktadır.  Daily Scrum toplantısı örneği pdf olarak aşağıdaki linkte paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/melisakklk/U-162/blob/main/daily%20scrum%20meeting.pdf)
+- Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Toplantı saati her gün takımda konuşularak kararlaştırılmaktadır. Takımdaki kişilerin bazıları çalıştığından uygun saat her gün aynı olamamaktadır.  Daily Scrum toplantısı örneği pdf olarak aşağıdaki linkte paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](daily scrum sprint 2.pdf)
 
 - **Backlog düzeni ve Story seçimleri**:
 -Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
