@@ -81,33 +81,29 @@ Portal Adventures
 # Sprint 2
 
 - **Sprint içinde tamamlanması tahmin edilen puan**:
-
  - 40 puan
 
 - **Daily Scrum**:
+- Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Toplantı saati her gün takımda konuşularak kararlaştırılmaktadır. Takımdaki kişilerin bazıları çalıştığından uygun saat her gün aynı olamamaktadır.  Daily Scrum toplantısı örneği pdf olarak aşağıdaki linkte paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/melisakklk/U-162/blob/main/daily%20scrum%20meeting.pdf)
 
-- Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Toplantı saati her gün takımda konuşularak kararlaştırılmaktadır. Takımdaki kişilerin bazıları çalıştığından uygun saat her gün aynı olamamaktadır.  Daily Scrum toplantısı örneği pdf olarak aşağıdaki linkte paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/melisakklk/U-162/blob/main/daily%20scrum%20meeting.pdf)
-
-- **Sprint board update**:
+- **Backlog düzeni ve Story seçimleri**:
+-Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
 - Sprint board screenshotları: 
 ![Backlog 1](https://github.com/melisakklk/U-162/blob/main/123.png) 
 
 - **Ürün Durumu**:
- - Bulunan assetlerle denemeler yapılmıştır.
-(Ürün denemeleri)](https://github.com/melisakklk/U-162/blob/main/WhatsApp%20Image%202023-06-19%20at%2019.29.39.jpeg)
-(https://github.com/melisakklk/U-162/blob/main/WhatsApp%20Image%202023-06-19%20at%2019.29.39%20(3).jpeg)
-(https://github.com/melisakklk/U-162/blob/main/WhatsApp%20Image%202023-06-19%20at%2019.29.39%20(2).jpeg)
-(https://github.com/melisakklk/U-162/blob/main/WhatsApp%20Image%202023-06-19%20at%2019.29.39%20(1).jpeg)
-  
+ - Karar verilen assetlerle bölüm oluşturmaları başlamıştır. 
+
 - **Sprint Review**:
   
- -    1. sprintin ilk haftası takımlar değişmiştir ve grup ancak 1. haftanın sonunda koordine olmuştur. 2. haftada daily scrumla yapılmış bunun sonucunda takım rolleri, oyun fikri, oyun temel özellikleri (2d, ticarileştirme mekanikleri...) kararlaştırılmıştır, backlog hazırlanmış ve tasarım ögeleri araştırılmıştır.  1. ve 2. hafta boyunca ekip üyelerinden birkaçının sınavları olduğundan planlamada zorluklar yaşanmıştır. Yeni planlama kişilerin günlük ve haftalık günlük yoğunlukları belirlenerek oluşturulmuştur. 
+ -    2. sprintin ilk haftası asset aranmıştır. Oyun konsepti gereğince her level farklı bir evrende geçtiğinden piksel ve tarz olarak birbirine uyumlu mekan aramaları yapılmıştır. Bunun yanında mekana uygun karakter ve tuzak aramaları yapılmıştır. Bulunan karakterlerin yeteri kadar hareket animasyonu olmasına özen gösterilmiştir. Soundtrack aranmış, gerekli UI ve yazıtipleri bulunmuştur. İkinci haftada da bulunan assetlerle level tasarımlarına başlanarak her şeyin bir araya getirilmesi başlanmıştır.
+    
 
 - **Sprint Retrospective:**
-  - Gannt Şeması bayram ve sınav yoğunlukları nedeniyle tekrar düzenlenmiştir.
-  - 1. sprint için artılar, eksiler, iyileştirmeler belirlenmiştir.Artılara örnek olarak ;
-    Ekip içerisinde iletişim etkili ve açıktır. Kişiler verilen sorumlulukları zamanında yerine getirmektedir ve geribildirim hızlıdır. Ekip üyeleri takım ruhuna adapte olmuştur.
-    Eksiler ev iyileştirmelere örnek olarak;
-    Kişiler bundan sonra daha da artacak iş yüklerine göre günlük planlamalarını yapmışlardır.
-  - Oyun tasarımı zaman ve geliştiricilerin yetkinlikleri sebebiyle 3d'den 2d'ye alınmıştır.
+  - Bayram sebebiyle tahmin edilen sapmalar yaşanmıştır. Tahmin edilememiş internete erişim problemlerinden grup içerisinde iletişim problemleri yaşanmıştır.
+  - 2. sprint için artılar, eksiler, iyileştirmeler belirlenmiştir.Artılara örnek olarak ;
+  - Gerekli bütün assetler bulunabilmiştir.
+  - Gerçekleşen sarkmalara karşın ekip üyeleri projeye daha fazla zaman ayırarak programın düzenli ilerlemesini sağlamıştır.
+  - Eksiler ve iyileştirmelere örnek olarak;
+  - İnternet erişim problemlerinden takım buluşmaları daha geç saatlerde ve daha uzun sürmüştür. Yine de programa sadık kalınmış iş yükleri düzgün gitmiştir.
