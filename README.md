@@ -117,6 +117,8 @@ Portal Adventures
 
 -  **Backlog Düzeni ve Story Seçimi**:
 - Toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır. son sprintte kalan 30 puanlık bölüm halledilmiştir.
+- Sprint board screenshotları: 
+![Sprintboard](https://github.com/melisakklk/U-162/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-17%20145327.png) 
 
 - **Sprint Review**:
 - Takım üyelerinin kişisel hayatlarında yaşadıkları olumsuz olaylar yüzünden görev listesinde ve zamanlamada problem çıkmıştır. Bu gelişmeler sonucunda planda ve çıkarılacak üründe düzenlemeye gidilmiştir. Ekipçe elimizden gelenin en iyisini yapmaya çabaladık.
