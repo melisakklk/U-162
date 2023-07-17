@@ -107,3 +107,21 @@ Portal Adventures
   - Gerçekleşen sarkmalara karşın ekip üyeleri projeye daha fazla zaman ayırarak programın düzenli ilerlemesini sağlamıştır.
   - Eksiler ve iyileştirmelere örnek olarak;
   - İnternet erişim problemlerinden takım buluşmaları daha geç saatlerde ve daha uzun sürmüştür. Yine de programa sadık kalınmış iş yükleri düzgün gitmiştir.
+ 
+  - # Sprint 3
+ - **Sprint içinde tamamlanması tahmin edilen puan**:
+ - 30 puan
+ 
+ - **Daily Scrum**:
+- Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Toplantı saati her gün takımda konuşularak kararlaştırılmaktadır. Takımdaki kişilerin bazıları çalıştığından uygun saat her gün aynı olamamaktadır.
+
+-  **Backlog Düzeni ve Story Seçimi**:
+- Toplamda proje boyunca tamamlanması gereken 100 puanlık backlog bulunmaktadır. son sprintte kalan 30 puanlık bölüm halledilmiştir.
+
+- **Sprint Review**:
+- Takım üyelerinin kişisel hayatlarında yaşadıkları olumsuz olaylar yüzünden görev listesinde ve zamanlamada problem çıkmıştır. Bu gelişmeler sonucunda planda ve çıkarılacak üründe düzenlemeye gidilmiştir. Ekipçe elimizden gelenin en iyisini yapmaya çabaladık.
+
+- **Ürün Durumu**:
+
+- **Sprint Retrospective**:
+- Ortaya çıkarılan iş beklenen gibi olmasa da yine de ekip bir arada çalışarak ortaya bir ürün çıkarmış ve iyi bir takım çalışması gerçekleştirilmiştir. Ortaya çıkan üründe eksiklikler olsa da bütün ekip için güzel bir tecrübe olmuştur.
