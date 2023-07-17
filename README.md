@@ -122,9 +122,9 @@ Portal Adventures
 
 - **Ürün Durumu**:
  - ![Ürün durumu](https://github.com/melisakklk/U-162/blob/main/WhatsApp%20Image%202023-07-17%20at%2015.34.29%20(1).jpeg)
- - ![Ürün durumu](https://github.com/melisakklk/U-162/blob/main/WhatsApp%20Image%202023-07-17%20at%2015.34.29%20(1).jpeg)
- - ![Ürün durumu](https://github.com/melisakklk/U-162/blob/main/WhatsApp%20Image%202023-07-17%20at%2015.34.29%20(1).jpeg)
- - ![Ürün durumu](https://github.com/melisakklk/U-162/blob/main/WhatsApp%20Image%202023-07-17%20at%2015.34.29%20(1).jpeg)
+ - ![Ürün durumu](https://github.com/melisakklk/U-162/blob/main/WhatsApp%20Image%202023-07-17%20at%2015.34.29%20(2).jpeg)
+ - ![Ürün durumu](https://github.com/melisakklk/U-162/blob/main/WhatsApp%20Image%202023-07-17%20at%2015.34.29%20(3).jpeg)
+ - ![Ürün durumu](https://github.com/melisakklk/U-162/blob/main/WhatsApp%20Image%202023-07-17%20at%2015.34.29.jpeg)
  - 
 - **Sprint Review**:
 - Takım üyelerinin kişisel hayatlarında yaşadıkları olumsuz olaylar yüzünden görev listesinde ve zamanlamada problem çıkmıştır. Bu gelişmeler sonucunda planda ve çıkarılacak üründe düzenlemeye gidilmiştir. Ekipçe elimizden gelenin en iyisini yapmaya çabaladık.
